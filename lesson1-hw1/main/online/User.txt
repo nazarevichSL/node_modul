@@ -1,0 +1,4 @@
+
+NAME: Serge AGE: 21 CITY:Lviv,
+NAME: Genadii AGE: 42 CITY:Kyiv,
+NAME: Constantin AGE: 25 CITY:Kharkiv

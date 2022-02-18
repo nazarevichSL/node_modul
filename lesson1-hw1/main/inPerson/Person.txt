@@ -1,0 +1,4 @@
+
+NAME: Oksana AGE: 37 CITY:Kyiv,
+NAME: Alina AGE: 35 CITY:Dnipro,
+NAME: Yana AGE: 28 CITY:Odessaharkiv
